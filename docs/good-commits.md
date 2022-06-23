@@ -1,6 +1,55 @@
 # Good commits
 
+## How to Create Good Commits
+
+
+
 ## How to Write Good Commit Messages
+
+<details><summary>Git Commit Message Templates</summary>
+
+[link](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
+
+For instance, consider a template file at `~/.gitmessage.txt` that looks like this:
+```
+Subject line (try to keep under 50 characters)
+
+Multi-line description of commit,
+feel free to be detailed.
+
+[Ticket: X]
+```
+Note how this commit template reminds the committer to keep the subject line short (for the sake of `git log --oneline` output), to add further detail under that, and to refer to an issue or bug tracker ticket number if one exists.
+
+To tell Git to use it as the default message that appears in your editor when you run git commit, set the commit.template configuration value:
+```
+$ git config --global commit.template ~/.gitmessage.txt
+$ git commit
+```
+Then, your editor will open to something like this for your placeholder commit message when you commit:
+```
+Subject line (try to keep under 50 characters)
+
+Multi-line description of commit,
+feel free to be detailed.
+
+[Ticket: X]
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+# modified:   lib/test.rb
+#
+~
+~
+".git/COMMIT_EDITMSG" 14L, 297C
+````
+
+If your team has a commit-message policy, then putting a template for that policy on your system and configuring Git to use it by default can help increase the chance of that policy being followed regularly.
+
+</details>
 
 <details><summary>How to Write a Git Commit Message </summary>
 
@@ -136,5 +185,3 @@ and the commit description SHALL be used to describe the breaking change.</li>
 a more structured commit history.</li>
 </ul>
 </details>
-
-## How to Create Good Commits
