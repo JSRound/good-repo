@@ -10,6 +10,26 @@
 > Keep in mind: <a href="http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html">This</a> <a href="https://www.git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project#_commit_guidelines">has</a> <a href="https://github.com/torvalds/subsurface-for-dirk/blob/master/README.md#contributing">all</a> <a href="http://who-t.blogspot.co.at/2009/12/on-commit-messages.html">been</a> <a href="https://github.com/erlang/otp/wiki/writing-good-commit-messages">said</a> <a href="https://github.com/spring-projects/spring-framework/blob/30bce7/CONTRIBUTING.md#format-commit-messages">before</a>.</em></blockquote>
 <ol><li><a href="#separate">Separate subject from body with a blank line</a></li><li><a href="#limit-50">Limit the subject line to 50 characters</a></li><li><a href="#capitalize">Capitalize the subject line</a></li><li><a href="#end">Do not end the subject line with a period</a></li><li><a href="#imperative">Use the imperative mood in the subject line</a></li><li><a href="#wrap-72">Wrap the body at 72 characters</a></li><li><a href="#why-not-how">Use the body to explain <em>what</em> and <em>why</em> vs. <em>how</em></a></li></ol>
 </details>
+
+<details><summary>A diff will tell you what changed, but only the commit message can properly tell you why</summary>
+
+[Link](http://who-t.blogspot.com/2009/12/on-commit-messages.html)
+
+**Any software project is a collaborative project.**
+
+> Re-establishing the context of a piece of code is wasteful. We can’t avoid it completely, so our efforts should go to reducing it [as much] as possible. Commit messages can do exactly that and as a result, _a commit message shows whether a developer is a good collaborator._   
+> _**Peter Hutterer**_
+
+A good commit message should answer three questions about a patch:
+
+* Why is it necessary? It may fix a bug, it may add a feature, it may improve performance, reliabilty, stability, or just be a change for the sake of correctness.
+
+* How does it address the issue? For short obvious patches this part can be omitted, but it should be a high level description of what the approach was.
+
+* What effects does the patch have? (In addition to the obvious ones, this may include benchmarks, side effects, etc.)
+
+These three questions establish the context for the actual code changes, **put reviewers and others into the frame of mind to look at the diff and check if the approach chosen was correct**. A good commit message also helps maintainers to decide if a given patch is suitable for stable branches or inclusion in a distribution.
+</details>
    
 <details><summary>Conventional Commits</summary>
 
