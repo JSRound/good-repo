@@ -4,7 +4,7 @@
   "description": "Lessons about good creating a good repository",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest ."
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JSRound/good-repo/issues"
   },
-  "homepage": "https://github.com/JSRound/good-repo#readme"
+  "homepage": "https://github.com/JSRound/good-repo#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
 }
