@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/JSRound/good-repo#readme",
   "devDependencies": {
-    "jest": "^28.1.1"
+    "jest": "28.1.1"
   }
 }
