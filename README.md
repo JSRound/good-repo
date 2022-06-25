@@ -1,6 +1,7 @@
 # good-repo
 Lessons about creating a good repository
 ## Preparation
+* ### [RFC](./docs/rfc)
 * ### [Backus–Naur Form (BNF)](./docs/bnf)
 * ### [Semantic Versioning 2.0.0](./docs/semver)
 ## Good commits
@@ -14,4 +15,5 @@ Lessons about creating a good repository
 
 ## Notes
 <details><summary>Click to expand</summary>
+
 * [Turing award](https://en.wikipedia.org/wiki/Turing_Award)
