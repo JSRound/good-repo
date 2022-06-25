@@ -17,6 +17,8 @@ Lessons about creating a good repository
 * ### [Husky 🐶](./docs/husky)
 * ### [🚫💩 lint-staged](./docs/lint-staged.md)
 
+## Maintenance
+* ### [Git solutions](./docs/git-solutions)
 ## Notes
 <details><summary>Click to expand</summary>
 
