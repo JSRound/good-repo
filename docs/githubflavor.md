@@ -1,0 +1,1 @@
+# [A formal spec for GitHub Flavored Markdown](https://github.blog/2017-03-14-a-formal-spec-for-github-markdown/)
