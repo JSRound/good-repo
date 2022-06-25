@@ -16,6 +16,7 @@ Lessons about creating a good repository
 * ### [Jest](./docs/jest)
 * ### [Husky 🐶](./docs/husky)
 * ### [Githooks](./docs/githooks)
+* ### [Linting](./docs/lint)
 * ### [🚫💩 lint-staged](./docs/lint-staged.md)
 
 ## Maintenance
