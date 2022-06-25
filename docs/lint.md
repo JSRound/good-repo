@@ -1,0 +1,1 @@
+# [Make linting great again](https://youtu.be/-mhY7e-EsC4)
