@@ -11,3 +11,7 @@ Lessons about creating a good repository
 * ### [Jest](./docs/jest)
 * ### [Husky 🐶](./docs/husky)
 * ### [🚫💩 lint-staged](./docs/lint-staged.md)
+
+## Notes
+<details><summary>Click to expand</summary>
+* [Turing award](https://en.wikipedia.org/wiki/Turing_Award)
