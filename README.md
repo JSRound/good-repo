@@ -1,6 +1,7 @@
 # good-repo
 Lessons about creating a good repository
 ## Preparation
+* ### [Backus–Naur Form (BNF)](./docs/bnf)
 * ### [Semantic Versioning 2.0.0](./docs/semver)
 ## Good commits
 * ### [Conventional Commit messages](./docs/conventional-commits)
