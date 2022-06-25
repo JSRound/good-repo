@@ -5,6 +5,7 @@ Lessons about creating a good repository
 * ### [Key words for use in RFCs to Indicate Requirement Levels - RFC2119](./docs/keyworkds)
 * ### [Backus–Naur Form (BNF)](./docs/bnf)
 * ### [Semantic Versioning 2.0.0](./docs/semver)
+* ### [Semantic Line Breaks Specification (SemBr)](./docs/linebreaks)
 ## Good commits
 * ### [Conventional Commit messages](./docs/conventional-commits)
 * ### [Release Please](./docs/release-please)
