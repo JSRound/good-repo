@@ -2,6 +2,7 @@
 Lessons about creating a good repository
 ## Preparation
 * ### [RFC](./docs/rfc)
+* ### [Key words for use in RFCs to Indicate Requirement Levels - RFC2119](./docs/keyworkds)
 * ### [Backus–Naur Form (BNF)](./docs/bnf)
 * ### [Semantic Versioning 2.0.0](./docs/semver)
 ## Good commits
