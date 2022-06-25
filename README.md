@@ -15,6 +15,7 @@ Lessons about creating a good repository
 * ### [How to Create Good Commits](./docs/good-commits.md#how-to-create-good-commits)
 * ### [Jest](./docs/jest)
 * ### [Husky 🐶](./docs/husky)
+* ### [Githooks](./docs/githooks)
 * ### [🚫💩 lint-staged](./docs/lint-staged.md)
 
 ## Maintenance
