@@ -6,6 +6,7 @@ Lessons about creating a good repository
 * ### [Backus–Naur Form (BNF)](./docs/bnf)
 * ### [Semantic Versioning 2.0.0](./docs/semver)
 * ### [Semantic Line Breaks Specification (SemBr)](./docs/linebreaks)
+* ### [Markdown syntax](./docs/markdown.md)
 ## Good commits
 * ### [Conventional Commit messages](./docs/conventional-commits)
 * ### [Release Please](./docs/release-please)
