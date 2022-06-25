@@ -1,6 +1,7 @@
 # good-repo
 Lessons about creating a good repository
 ## Good commits
+* ### [Conventional Commit messages](./docs/conventional-commits)
 * ### [Release Please](./docs/release-please)
 * ### [How to Write Good Commit Messages](./docs/good-commits.md#how-to-write-good-commit-messages)
 * ### [How to Create Good Commits](./docs/good-commits.md#how-to-create-good-commits)
