@@ -21,6 +21,9 @@ Lessons about creating a good repository
 
 ## Maintenance
 * ### [Git solutions](./docs/git-solutions)
+
+## Coding
+* ### [To index.js or not to index.js?](./docs/index-noindex.md)
 ## Notes
 <details><summary>Click to expand</summary>
 
