@@ -23,6 +23,7 @@ Lessons about creating a good repository
 * ### [Git solutions](./docs/git-solutions)
 
 ## Coding
+* ### [Export and Import](./docs/exportimport.js)
 * ### [To index.js or not to index.js?](./docs/index-noindex.md)
 ## Notes
 <details><summary>Click to expand</summary>
