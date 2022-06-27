@@ -8,11 +8,13 @@ Lessons about creating a good repository
 * ### [Semantic Line Breaks Specification (SemBr)](./docs/linebreaks)
 * ### [Markdown syntax](./docs/markdown.md)
 * ### [Github flavored markdown](./docs/githubflavor)
+* ### [Professional Git](./docs/professional-git)
 ## Good commits
 * ### [Conventional Commit messages](./docs/conventional-commits)
 * ### [Release Please](./docs/release-please)
 * ### [How to Write Good Commit Messages](./docs/good-commits.md#how-to-write-good-commit-messages)
 * ### [How to Create Good Commits](./docs/good-commits.md#how-to-create-good-commits)
+* ### [Style Guide](./docs/style-guide)
 * ### [Jest](./docs/jest)
 * ### [Husky 🐶](./docs/husky)
 * ### [Githooks](./docs/githooks)
