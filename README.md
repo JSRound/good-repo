@@ -20,6 +20,7 @@ Lessons about creating a good repository
 * ### [Githooks](./docs/githooks)
 * ### [Linting](./docs/lint)
 * ### [🚫💩 lint-staged](./docs/lint-staged.md)
+* ### [Code reviews](./docs/codereviews)
 
 ## Maintenance
 * ### [Git solutions](./docs/git-solutions)
