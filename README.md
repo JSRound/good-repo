@@ -1,6 +1,7 @@
 # good-repo
 Lessons about creating a good repository
 ## Preparation
+* ### [Monorepository](./docs/monorepo)
 * ### [RFC](./docs/rfc)
 * ### [Key words for use in RFCs to Indicate Requirement Levels - RFC2119](./docs/keyworkds)
 * ### [Backus–Naur Form (BNF)](./docs/bnf)
