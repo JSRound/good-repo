@@ -1,5 +1,6 @@
 # good-repo
 Lessons about creating a good repository
+## [Secrets](./docs/secrets)
 ## Preparation
 * ### [Trunk-based Development vs. Git Flow](https://www.toptal.com/software/trunk-based-development-git-flow)
 * ### [Monorepository](./docs/monorepo)
