@@ -2,7 +2,7 @@
 Lessons about creating a good repository
 ## [Secrets](./docs/secrets.md)
 ## Preparation
-* ### [Trunk-based Development vs. Git Flow](https://www.toptal.com/software/trunk-based-development-git-flow)
+* ### [Branch Strategies](./docs/branch.md)
 * ### [Monorepository](./docs/monorepo.md)
 * ### [RFC](./docs/rfc.md)
 * ### [Key words for use in RFCs to Indicate Requirement Levels - RFC2119](./docs/keywords.md)
